@@ -1,0 +1,42 @@
+body {
+    background-image: url("record.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: lemonchiffon;
+    margin: 0;
+}
+
+header {
+    background-color: darkgoldenrod;
+    color: lightyellow;
+    text-align: center;
+    padding: 1em;
+    border: 20px groove purple;
+    border-radius: 100px;
+}
+
+main {
+    background-color: lightgrey;
+    padding: 1em;
+    margin-top: 2em;
+    opacity: 0.9;
+}
+
+.shopName {
+    text-shadow: 2px 2px black;
+    border: 20px groove hotpink;
+    border-radius: 100px;
+}
+
+.smallerShop {
+    border: 20px groove pink;
+    border-radius: 100px;
+}
+
+ul {
+    background-color: cadetblue;
+    text-shadow: 2px 2px 5px red;
+    opacity: 0.9;
+}
